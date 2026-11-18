@@ -1,0 +1,9 @@
+﻿zaznam_id;sloupec;hodnota;duvod;doklad
+R031;pocet_zpozdenych;17;Doplněno z kontrolního exportu;MODEL-OPRAVA-2026-01-15
+R051;pocet_zpozdenych;14;Doplněno z kontrolního exportu;MODEL-OPRAVA-2026-01-15
+R071;pocet_zpozdenych;26;Doplněno z kontrolního exportu;MODEL-OPRAVA-2026-01-15
+R032;pocet_zpozdenych;11;Oprava chybného přenosu počtu;MODEL-OPRAVA-2026-01-15
+R052;pocet_zpozdenych;8;Oprava chybného přenosu počtu;MODEL-OPRAVA-2026-01-15
+R033;pobocka_id;B05;Potvrzení identifikátoru správcem zdroje;MODEL-OPRAVA-2026-01-15
+R053;mesic;2025-05;Potvrzení období správcem zdroje;MODEL-OPRAVA-2026-01-15
+R072;pocet_zasilek;281;Oprava znaménka v exportu;MODEL-OPRAVA-2026-01-15

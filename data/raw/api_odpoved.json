@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "synthetic": true,
+    "unit": "měsíc × pobočka × služba",
+    "period": "2025-01",
+    "next": null
+  },
+  "items": [
+    {
+      "id": "R001",
+      "period": "2025-01",
+      "branch": {
+        "id": "B01"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 854,
+        "late": 20
+      },
+      "cost_czk": 30807.16
+    },
+    {
+      "id": "R002",
+      "period": "2025-01",
+      "branch": {
+        "id": "B01"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 332,
+        "late": 9
+      },
+      "cost_czk": 17990.18
+    },
+    {
+      "id": "R003",
+      "period": "2025-01",
+      "branch": {
+        "id": "B02"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 348,
+        "late": 21
+      },
+      "cost_czk": 12660.9
+    },
+    {
+      "id": "R004",
+      "period": "2025-01",
+      "branch": {
+        "id": "B02"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 142,
+        "late": 9
+      },
+      "cost_czk": 7739.57
+    },
+    {
+      "id": "R005",
+      "period": "2025-01",
+      "branch": {
+        "id": "B03"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 605,
+        "late": 18
+      },
+      "cost_czk": 21885.16
+    },
+    {
+      "id": "R006",
+      "period": "2025-01",
+      "branch": {
+        "id": "B03"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 226,
+        "late": 8
+      },
+      "cost_czk": 12307.34
+    },
+    {
+      "id": "R007",
+      "period": "2025-01",
+      "branch": {
+        "id": "B04"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 1025,
+        "late": 15
+      },
+      "cost_czk": 36781.59
+    },
+    {
+      "id": "R008",
+      "period": "2025-01",
+      "branch": {
+        "id": "B04"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 397,
+        "late": 15
+      },
+      "cost_czk": 21507.47
+    },
+    {
+      "id": "R009",
+      "period": "2025-01",
+      "branch": {
+        "id": "B05"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 260,
+        "late": 17
+      },
+      "cost_czk": 9353.47
+    },
+    {
+      "id": "R010",
+      "period": "2025-01",
+      "branch": {
+        "id": "B05"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 87,
+        "late": 7
+      },
+      "cost_czk": 4656.99
+    },
+    {
+      "id": "R011",
+      "period": "2025-01",
+      "branch": {
+        "id": "B06"
+      },
+      "service": "standard",
+      "counts": {
+        "shipments": 705,
+        "late": 28
+      },
+      "cost_czk": 25353.68
+    },
+    {
+      "id": "R012",
+      "period": "2025-01",
+      "branch": {
+        "id": "B06"
+      },
+      "service": "expres",
+      "counts": {
+        "shipments": 278,
+        "late": 19
+      },
+      "cost_czk": 15083.99
+    }
+  ]
+}
